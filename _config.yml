@@ -29,6 +29,8 @@ url: "jonathan-rogers-dev.github.io" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  jekyll
 
+color_scheme: dark
+
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 plugins:
