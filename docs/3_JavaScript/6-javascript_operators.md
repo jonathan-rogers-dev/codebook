@@ -40,3 +40,4 @@ nav_order: 6
 - `instanceof`: Returns true if an object is an instance of an object type
 
 ## JavaScript Operator Precedence Values
+https://www.w3schools.com/js/js_arithmetic.asp
